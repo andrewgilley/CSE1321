@@ -5,6 +5,8 @@
 # Name: Andrew Gilley
 # Assignment: #1
 
+print("[Customer Receipt Generator]")
+
 name = input("Enter your name: ") 
 item = input("Enter the item you purchased: ") 
 quantity = input("Enter the quantity of the item: ") 
